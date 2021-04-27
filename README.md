@@ -1,4 +1,4 @@
-# •│「🔆」 𝓛𝓪𝓿𝓪 𝓵𝓪𝓶𝓹.
+# 「🔆」 𝓛𝓪𝓿𝓪 𝓵𝓪𝓶𝓹.
 
 
 ## [Repositorio base.](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md)
