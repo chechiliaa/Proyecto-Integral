@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="250mm"
+   viewBox="0 0 200 250"
+   version="1.1"
+   id="svg7257"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="tapa de abajo.svg">
+  <defs
+     id="defs7251" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7254">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 97.51736,5.025597 15.51,11.268 -1.764,2.427 12.136,8.817 1.763,-2.427 12.135,8.817 -1.763,2.427 12.135,8.816 1.763,-2.427 12.136,8.817 -1.764,2.427 12.136,8.817 1.763,-2.427 12.135,8.817 3.374,2.451 -5.924,18.232002 -2.853,-0.927 -4.635,14.266001 2.853,0.927 -4.635,14.266 -2.854,-0.927 -4.635,14.266 2.853,0.927 -4.635,14.265 -2.853,-0.927 -4.635,14.266 2.853,0.927 -4.635,14.266 -1.289,3.966 h -19.171 v -3 h -15 v 3 h -15 v -3 H 90.017355 v 3 h -15 v -3 h -15 v 3 h -15 -4.17 l -5.924,-18.232 2.853,-0.927 -4.635,-14.266 -2.853,0.927 -4.635,-14.265 2.853,-0.927 -4.635,-14.266 -2.854,0.927 -4.635,-14.266 2.853,-0.927 -4.635,-14.266001 -2.853,0.927 -4.6349995,-14.266 -1.2889998,-3.966002 15.5089993,-11.268 1.763,2.427 12.136,-8.817 -1.764,-2.427 12.136,-8.817 1.763,2.427 12.135,-8.816 -1.763,-2.427 12.135,-8.817 1.763,2.427 12.136,-8.817 -1.764,-2.427 12.136,-8.817 z"
+       id="bottom_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1"
+       vector-effect="non-scaling-stroke" />
+  </g>
+</svg>
